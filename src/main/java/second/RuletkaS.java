@@ -107,7 +107,7 @@ public class RuletkaS {
                     System.out.println("Ставка на -" + rate + "- принята");
                 }
             } else {
-                System.out.println("Неверный выбор. Повторите ввод");
+                System.out.println("Неверный выбор . Повторите ввод");
                 ourRate();
             }
         }
